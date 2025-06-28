@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Assignment1b_20220808704 {
+public class AtmSystem     {
     public static void main(String[] args) {
         System.out.println("Please enter your balance: ");
         Scanner scn = new Scanner(System.in);
