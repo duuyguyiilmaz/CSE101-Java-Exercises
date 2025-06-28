@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assignment2_20220808704 {
+public class AtmSystem2 {
     public static void main(String[] args) {
 
         Scanner scn = new Scanner(System.in);
