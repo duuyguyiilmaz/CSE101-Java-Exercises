@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class hw_20220808704 {
+public class PracticesJava {
     public static void main(String[] args) {
         int[] a = { 7 };
         System.out.println(Arrays.toString(reverseArry(a)));
