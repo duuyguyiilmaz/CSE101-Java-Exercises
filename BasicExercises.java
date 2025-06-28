@@ -1,4 +1,4 @@
-public class Quiz1_20220808704 {
+public class BasicExercises {
     public static void main(String args[]) {
     }
 
