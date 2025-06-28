@@ -6,7 +6,7 @@ public class DiceProbability {
         System.out.println("Enter your number k trial:");
         int k = scn.nextInt();
         double DiceProbibility = Math.pow(((5.0 / 6)), (k - 1)) * (1.0 / 6);
-        System.out.printf("The probability of rolling the first 4 on trial <%d> is: %.6f\n", k, diceProbability);
+        System.out.printf("The probability of rolling the first 4 on trial <%d> is: %.6f\n", k, DiceProbibility);
 
     }
 }
